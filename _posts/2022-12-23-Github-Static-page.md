@@ -4,6 +4,7 @@ author: skt
 date: 2022-12-23 01:31:00 +0800
 categories: [Blogging, Demo, Github,]
 tags: [Tutorial]
+pin: true
 math: true
 mermaid: true
 image:
@@ -12,3 +13,5 @@ image:
   height: 500
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
+
+image.png
